@@ -1,0 +1,7 @@
+2024-10-12 at 22:22:34 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@623e088f
+2024-10-12 at 22:22:34 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-10-12 at 22:22:34 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-10-12 at 22:27:59 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@52066604
+2024-10-12 at 22:27:59 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-10-12 at 22:27:59 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-10-12 at 22:27:59 GMT+08:00 INFO  com.siyuan.TestUser 32 testUserObject - #执行调用成功..
