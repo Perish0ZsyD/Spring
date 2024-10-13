@@ -5,3 +5,37 @@
 2024-10-12 at 22:27:59 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
 2024-10-12 at 22:27:59 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
 2024-10-12 at 22:27:59 GMT+08:00 INFO  com.siyuan.TestUser 32 testUserObject - #执行调用成功..
+2024-10-13 at 13:20:36 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@52066604
+2024-10-13 at 13:20:36 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-10-13 at 13:20:36 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-10-13 at 13:20:36 GMT+08:00 INFO  com.siyuan.TestUser 31 testUserObject - #执行调用成功..
+2024-10-13 at 15:29:49 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5d43661b
+2024-10-13 at 15:29:50 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-10-13 at 15:29:50 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-10-13 at 15:31:34 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5d43661b
+2024-10-13 at 15:31:34 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-10-13 at 15:31:34 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-10-13 at 15:32:49 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5d43661b
+2024-10-13 at 15:32:49 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean.xml]
+2024-10-13 at 15:32:49 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-10-13 at 15:47:45 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5d43661b
+2024-10-13 at 15:47:45 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 2 bean definitions from class path resource [bean.xml]
+2024-10-13 at 15:47:45 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-10-13 at 15:47:45 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'userDaoImpl'
+2024-10-13 at 15:58:25 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5d43661b
+2024-10-13 at 15:58:25 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 3 bean definitions from class path resource [bean.xml]
+2024-10-13 at 15:58:25 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'user'
+2024-10-13 at 15:58:25 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'userDaoImpl'
+2024-10-13 at 15:58:25 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'personDaoImpl'
+2024-10-13 at 18:47:08 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7cf6a5f9
+2024-10-13 at 18:47:08 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean-di.xml]
+2024-10-13 at 18:47:08 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'book'
+2024-10-13 at 18:50:34 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7cf6a5f9
+2024-10-13 at 18:50:34 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 2 bean definitions from class path resource [bean-di.xml]
+2024-10-13 at 18:50:34 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'book'
+2024-10-13 at 18:50:34 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'bookCon'
+2024-10-13 at 18:50:34 GMT+08:00 WARN  org.springframework.core.LocalVariableTableParameterNameDiscoverer 123 inspectClass - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.siyuan.spring6.iocxml.di.Book
+2024-10-13 at 18:51:59 GMT+08:00 DEBUG org.springframework.context.support.AbstractApplicationContext 630 prepareRefresh - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7cf6a5f9
+2024-10-13 at 18:51:59 GMT+08:00 DEBUG org.springframework.beans.factory.xml.XmlBeanDefinitionReader 393 doLoadBeanDefinitions - Loaded 1 bean definitions from class path resource [bean-di.xml]
+2024-10-13 at 18:51:59 GMT+08:00 DEBUG org.springframework.beans.factory.support.DefaultSingletonBeanRegistry 225 getSingleton - Creating shared instance of singleton bean 'bookCon'
+2024-10-13 at 18:51:59 GMT+08:00 WARN  org.springframework.core.LocalVariableTableParameterNameDiscoverer 123 inspectClass - Using deprecated '-debug' fallback for parameter name resolution. Compile the affected code with '-parameters' instead or avoid its introspection: com.siyuan.spring6.iocxml.di.Book
